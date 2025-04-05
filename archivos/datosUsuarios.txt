@@ -1,0 +1,3 @@
+{"usuario":"sergio","perfil":{"dni":"12345678T","nombre":"sixto fabricio","apellido":"grifa","telefono":"123456679","calle":"tres","numeroPortal":"2","codigoPostal":"27000","poblacion":"madrid","provincia":"madrid","nota":"hola1"}}
+{"usuario":"roberto","perfil":{"dni":"12345678T","nombre":"full","apellido":"alonso","telefono":"123456679","calle":"tres","numeroPortal":"2","codigoPostal":"27000","poblacion":"madrid","provincia":"madrid","nota":"hola2"}}
+{"usuario":"mateo","perfil":{"dni":null,"nombre":"kjaskhska","apellido":"asnsan","telefono":null,"calle":"ashashkas","numeroPortal":"222","codigoPostal":"23","poblacion":"Madrid","provincia":"Madrid","nota":"hola"}}

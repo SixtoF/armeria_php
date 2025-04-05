@@ -1,0 +1,10 @@
+Pistola Glock:10:9mm
+Pistola Beretta:8:9mm
+Fusil AK-47:5:7.62mm
+Fusil M16:7:5.56mm
+Subfusil MP5:6:9mm
+Subfusil Uzi:4:9mm
+Escopeta Remington:3:12 gauge
+Escopeta Mossberg:2:12 gauge
+Rifle Francotirador Barrett:1:.50 BMG
+Rifle Francotirador Dragunov:2:7.62mm
